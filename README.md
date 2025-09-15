@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/NotaGen_Weights-HuggingFace-%23FFD21F?logo=huggingface&logoColor=white" alt="Weights">
   </a>
   &nbsp;&nbsp;
-  <!-- HuggingFace Space -->
+  <!-- HuggingFace Spaces -->
   <a href="https://huggingface.co/spaces/ElectricAlexis/NotaGen">
     <img src="https://img.shields.io/badge/NotaGen_Space-Huggingface-✨️?logo=huggingface&logoColor=white" alt="Space">
   </a>
@@ -80,7 +80,7 @@ If you want to add a new composer style to NotaGen-X, please refer to issue [#18
 
 ### Online Gradio Demo
 
-We developed an [online gradio demo](https://huggingface.co/spaces/ElectricAlexis/NotaGen) on Huggingface Space for NotaGen-X. You can input **"Period-Composer-Instrumentation"** as the prompt to have NotaGen generate music, preview the audio / pdf scores, and download them :D
+We developed an [online gradio demo](https://huggingface.co/spaces/ElectricAlexis/NotaGen) on Huggingface Spaces for NotaGen-X. You can input **"Period-Composer-Instrumentation"** as the prompt to have NotaGen generate music, preview the audio / pdf scores, and download them :D
 
 <p align="center">
   <img src="gradio/illustration_online.png" alt="NotaGen Gradio Demo">
